@@ -24,6 +24,8 @@
 //  A B 3 C
 //   8 4 B
 
+// This task has been extended to include the resource tiles on the board and display them to add to the complexity of the challenge.
+
 
 import java.util.*;
 
